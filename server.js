@@ -71,15 +71,12 @@ app.delete("/api/notes/:id", (req, res) => {
 });
 
 app.get('/notes', function(req, res) {
-    
-    console.log("Note",path.join(__dirname, '../public/notes.html'));
-    res.sendFile(path.join(__dirname, '../public/notes.html'));
+    res.sendFile(path.join(__dirname, './public/notes.html'));
 });
 
-// app.get('/', function(req, res) {
-//     // console.log("HTML",path.join(__dirname, '../public/index.html'));
-//     res.sendFile(path.join(__dirname, '../public/index.html'));
-// });
+app.get('/', function(req, res) {
+    res.sendFile(path.join(__dirname, './public/index.html'));
+});
 
 app.listen(PORT, () => {
     console.log(`App listening at http://localhost:${PORT}`);
