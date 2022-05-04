@@ -9,12 +9,13 @@ This is a simple Note Taker application that allows users to add, view saved not
 [Note Taker](https://git.heroku.com/note-traker1.git)
 
 # Table of Contents
-* [Demo](#Demo)
-* [Technology](#Technology)
-* [Usage](#Usage)
-* [Features](#Features)
-* [License](#License)
-* [Questions](#Questions)
+* [Technology](#technology)
+* [Usage](#usage)
+* [Features](#features)
+* [License](#license)
+* [Questions](#questions)
+
+# Demo
 
 # User Story
 
@@ -27,16 +28,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
 
-# Demo :
-
-
-# Technology :
+# Technology
 
 **1. [Express.js](https://expressjs.com/)** :
 
 **2. [Node.js](https://nodejs.org/en/)** : 
 
-# Usage :
+# Usage
 
 * To install necessary dependencies, run the following command :
 
@@ -52,7 +50,7 @@ node server.js
 
 * Open browser and type `http://localhost:3001/` to run this application on your local machine.
 
-# Features :
+# Features
 
 1. Used 'Express.js' to build server
 
