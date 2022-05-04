@@ -9,12 +9,12 @@ This is a simple Note Taker application that allows users to add, view saved not
 [Note Taker](https://git.heroku.com/note-traker1.git)
 
 # Table of Contents
-* [Demo](#demo)
-* [Technology](#technology)
-* [Usage](#usage)
-* [Features](#features)
-* [License](#license)
-* [Questions](#questions)
+* [Demo](#Demo)
+* [Technology](#Technology)
+* [Usage](#Usage)
+* [Features](#Features)
+* [License](#License)
+* [Questions](#Questions)
 
 # User Story
 
