@@ -16,6 +16,7 @@ This is a simple Note Taker application that allows users to add, view saved not
 * [Questions](#questions)
 
 # Demo
+https://www.screencast.com/t/bJ2TFtarN7
 
 # User Story
 
