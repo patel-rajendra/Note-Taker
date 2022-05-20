@@ -12,6 +12,7 @@ This is a simple Note Taker application that allows users to add, view saved not
 * [Technology](#technology)
 * [Usage](#usage)
 * [Features](#features)
+* [Deployed App link](#Deployed App link)
 * [License](#license)
 * [Questions](#questions)
 
@@ -58,6 +59,9 @@ node server.js
 2. Used 'fs(File System)' module to read and write from 'db.json' file.
 
 3. Application is deployed on [heroku](https://www.heroku.com/) : Heroku is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
+
+# Deployed App link
+https://note-traker1.herokuapp.com/
 
 # License
 
